@@ -15,3 +15,15 @@ There should be some time critical aspects of this as well.
 
 
 "Human intelligence is measured on our ability to generalize" - unknown
+
+I actually have some favorite mathematicians. Cedric Villani, Terrance Mckenna, Stephen Wolfram.
+
+There's another fundamental aspect of this software in its ability to relate mathematical works, based on authors and topics.
+
+
+For instance,
+
+Stephen Wolfram and Jon Von Neumann 
+
+Stephen works on Mathematica, and studies Cellular Automata
+Jon Von Neumann I believe discovered the study of Ceullar Automata
